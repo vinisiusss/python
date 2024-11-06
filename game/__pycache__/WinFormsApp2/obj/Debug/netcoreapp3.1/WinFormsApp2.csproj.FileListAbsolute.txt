@@ -1,0 +1,16 @@
+E:\game\__pycache__\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+E:\game\__pycache__\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+E:\game\__pycache__\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+E:\game\__pycache__\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+E:\game\__pycache__\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+E:\game\__pycache__\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+E:\game\__pycache__\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+E:\game\__pycache__\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+E:\game\__pycache__\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+E:\game\__pycache__\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\game\__pycache__\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+E:\game\__pycache__\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+E:\game\__pycache__\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+E:\game\__pycache__\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+E:\game\__pycache__\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+E:\game\__pycache__\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
